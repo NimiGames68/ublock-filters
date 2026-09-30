@@ -629,3 +629,74 @@ chatgpt.com##.py-1.dark\:shadow-\[0_8px_16px_0_rgba\(0\,0\,0\,0\.40\)\,inset_0_0
 claude.ai##.text-muted.text-xs.text-center.pt-12.pb-2.bg-surface-1.-mt-10.z-0.relative
 
 ||sapo.pt/assets/points-in-play.js
+
+! 25/08/2026 https://sapo.pt
+sapo.pt##[href^="https://apps.apple.com/pt/app/sapo-jornais/id295836553"] > svg
+sapo.pt##[href^="https://play.google.com/store/apps/details"] > svg
+sapo.pt##[href="https://ajuda.sapo.pt/politica-de-cookies-9682"]
+
+! 28/08/2026 https://chatgpt.com
+chatgpt.com##.group-data-\[drag-preview\=true\]\/tpp-toggle\:text-token-text-secondary.text-token-text-primary.pe-9.ps-11.motion-reduce\:transition-none.duration-150.transition-colors.text-sm.py-2.rounded-\[inherit\].justify-center.items-center.w-full.h-full.flex.box-border
+chatgpt.com##.grid-cols-2.h-full.grid.z-10.relative
+
+! 29/08/2026 https://tugatech.com.pt
+||tt-af-backup.realmsn.com/pccomponentes/pccomponentes$subdocument
+||tt-af-backup.realmsn.com/tugatechlateral/$subdocument
+||tt-af-backup.realmsn.com/*$subdocument
+
+! 29/08/2026 https://adguard.com
+adguard.com##.flash-wrapper--static.flash-wrapper
+
+! 31/08/2026 https://inv.nadeko.net
+inv.nadeko.net##.ion-ios-sunny.icon
+
+! 31/08/2026 https://account.proton.me
+account.proton.me##.rounded.button-promotion--q3-sale-2026.items-center.flex.max-w-full.button-solid-norm.button-medium.button-pill.button
+
+! 03/09/2026 https://links.canine.tools
+links.canine.tools##.max-w-md.bg-opacity-80.backdrop-blur-sm.bg-base-300.rounded-xl.shadow-xl.border-primary.border.items-center.gap-2.justify-between.flex.p-2.pointer-events-auto.mx-auto
+
+@@||futbin.com^$ghide
+@@||googletagmanager.com/gtm.js$script,domain=futbin.com
+@@||digitalatticnewsletter.com/public/js$script,domain=futbin.com
+@@||googlesyndication.com$frame,domain=futbin.com
+futbin.com##+js(no-fetch-if, googlesyndication.com)
+
+! 03/09/2026 https://www.futbin.com
+www.futbin.com##.DCDOr
+
+! 08/09/2026 https://www.last.fm
+www.last.fm##[href="/about/trackmymusic"]
+www.last.fm##[href="/about/jobs"]
+www.last.fm##.colourful.sponsor.dropdown-menu-clickable-item
+www.last.fm##.secondary-nav-item--subscription.secondary-nav-item.navlist-item > .secondary-nav-item-link
+
+
+@@||trackersimulator.org^$first-party
+
+@@||eviltracker.net^$first-party
+
+@@||do-not-tracker.org^$first-party
+
+www.google.com##.jnyxRd.Y5Ip8c
+claude.ai##.w-full.border-0\.5.relative.z-0.px-3\.5.rounded-b-xl.border-t-0.pb-2.pt-2\.5.bg-bg-300.border-transparent
+claude.ai##.shadow-\[0_0_0_0\.5px_hsla\(var\(--border-300\)\/0\.15\)\].relative.z-0.mx-2.-mb-5.flex.items-center.justify-between.gap-md.rounded-t-\[20px\].border.border-b-0.border-transparent.bg-surface-1.px-4.pb-7.pt-2\.5.md\:mx-0
+claude.ai###base-ui-_r_1op_ > .inline-flex.items-center.gap-1 > span
+claude.ai###base-ui-_r_1op_ > .absolute.-z-\[1\].rounded-\[inherit\].transition-colors.duration-fast.group-focus-visible\/btn\:shadow-\[inset_0_0_0_1px_var\(--cds-page-bg\)\].bg-transparent.group-hover\/btn\:bg-fill-ghost-hover.group-aria-expanded\/btn\:bg-fill-ghost-hover.inset-0.group-aria-pressed\/btn\:bg-accent.group-hover\/btn\:group-aria-pressed\/btn\:bg-accent.cds-btn-squish
+claude.ai###base-ui-_r_1op_
+claude.ai###base-ui-_r_1o7_ > .inline-flex.items-center.gap-1 > span
+claude.ai###base-ui-_r_1o7_ > .absolute.-z-\[1\].rounded-\[inherit\].transition-colors.duration-fast.group-focus-visible\/btn\:shadow-\[inset_0_0_0_1px_var\(--cds-page-bg\)\].bg-transparent.group-hover\/btn\:bg-fill-ghost-hover.group-aria-expanded\/btn\:bg-fill-ghost-hover.inset-0.group-aria-pressed\/btn\:bg-accent.group-hover\/btn\:group-aria-pressed\/btn\:bg-accent.cds-btn-squish
+claude.ai###base-ui-_r_1o7_
+music.apple.com##.cwc-upsell-banner
+codeberg.org##.item.donation-pretty
+claude.ai##.p-6.flex.flex-col.gap-6
+claude.ai##.draggable-none.fixed.inset-0.bg-backdrop.backdrop-blur-\[2px\].transition-opacity.duration-base.ease-out.data-\[starting-style\]\:opacity-0.data-\[ending-style\]\:opacity-0.has-\[\~\[data-nested\]\]\:bg-transparent.has-\[\~\[data-nested\]\]\:backdrop-blur-none
+claude.ai###_r_2r4_ > div:nth-of-type(1)
+claude.ai###_r_2o5_ > div:nth-of-type(1)
+claude.ai##.p-6.flex.flex-col.gap-4
+claude.ai###_r_2ur_ > div:nth-of-type(1)
+chatgpt.com##.text-caption-regular.text-token-text-tertiary.pointer-events-auto.mx-auto.w-fit.max-w-full > div
+www.worten.pt##.modal__content--no-header.neu-01-bg.modal__content
+www.worten.pt##.modal__wrapper--normal.modal__wrapper
+www.worten.pt##.modal.modal__mask.modal-cookies
+www.worten.pt##body:style(overflow: auto !important;)
